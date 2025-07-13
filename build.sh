@@ -42,7 +42,7 @@ function cpfiles {
 
 function genCPIO {
     cd rythin/initramfs
-    find . | cpio -o -H newc | gzip > ../boot/initramfs.cpio.gz
+    find . | cpio -o -H newc | zstd > ../boot/initramfs.cpio.zstd
     cd ../../
 }
 
