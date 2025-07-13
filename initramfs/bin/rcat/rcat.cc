@@ -62,7 +62,7 @@ int main(int argc, const char *args[])
 				}
 
 				fi.close();
-				// print out the file
+				// write out the file
 				cout << code;
 				return SUCESS;
 			}
