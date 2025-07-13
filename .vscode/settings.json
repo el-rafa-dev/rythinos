@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ry": "rhythin",
+        "iostream": "cpp"
+    },
+    "terminal.integrated.env.linux": {
+        "LANG": "pt_BR.UTF-8",
+        "LC_ALL": "pt_BR.UTF-8"
+    }
+}
