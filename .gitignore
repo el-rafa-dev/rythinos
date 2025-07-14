@@ -1,3 +1,5 @@
 rythin
 *.iso
 run
+airootfs
+squashfs
